@@ -1,0 +1,27 @@
+{
+  "chairmanName": "Zaid Ali Khan",
+  "collegeAddress": "Bareily Near Shajhanpur ",
+  "collegeName": "Lotus Institute of Management Technology",
+  "department": [
+    {
+    
+      "depHeadName": "Ramiz khan",
+      "depName": "Engineering",
+      "depStatus": "Active",
+      "teacher": [
+        {
+        
+          "hiredBy": "Direct Hiring",
+          "teacherAddress": "Bareily Near Kutub Khana",
+          "teacherName": "Kavita Bhaskar"
+        }
+      ],
+      "totalStaff": 25
+    }
+  ],
+  "directorName": "Abhishek",
+  "feadback": {
+    "collegeName": "Lotus Institute of Management Technology",
+    "feadBack": "Lotus Institute of Management Technology is the best choise of for engineering !!"
+  }
+}
